@@ -1,7 +1,6 @@
 #master {
     height: 100%;
     width: 100%;
-    padding: 10px;
     background-color: dodgerblue;
 }
 
@@ -9,6 +8,7 @@
     float: left;
     height: 150px;
     width: 25%;
+    margin: 10px;
     background-color: darkgray
 }
 
@@ -16,6 +16,7 @@
     float: right;
     height: 150px;
     width: 25%;
+    margin: 10px;
     background-color: darkgray
 }
 
