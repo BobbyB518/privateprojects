@@ -1,0 +1,48 @@
+#master {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    background-color: dodgerblue;
+}
+
+#left-box {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: darkgray
+}
+
+#right-box {
+    float: right;
+    height: 150px;
+    width: 25%;
+    background-color: darkgray
+}
+
+#flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: gray;
+}
+
+#flex-container > div {
+    height: 150px;
+    width: 100%;
+    margin: 10px;
+}
+
+#RED-DIV {
+    background-color: red;
+}
+
+#BLUE-DIV {
+    background-color: blue;
+}
+
+#GREEN-DIV {
+    background-color: green;
+}
+
+#YELLOW-DIV {
+    background-color: yellow;
+}
